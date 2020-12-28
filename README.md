@@ -13,4 +13,4 @@ A complete documentation will be uploaded as soon as I have time.
 
 ## Disclaimer
 
-If you decide to use this, you're welcome to do that as long as you give credit where credit is due. All code is built upon other code, and honestly, 99.9% of every line of code that you see in my repo can be attributed to StackOverflow. In the end, I can't stop you from not crediting me, but as with everything; Remember the human, be nice, and enjoy the code :)
+If you decide to use this, you're welcome to do that as long as you give credit where credit is due. All code is built upon other code, and honestly, 99.9% of every line of code that you see in all of my repos can be attributed to incredible people at StackOverflow, Reddit, Discord, and Github. In the end, I can't stop you from not crediting me, but as with everything; Remember the human, be nice, and enjoy the code. :)
